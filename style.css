@@ -1,0 +1,105 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+/* Card look */
+    background: rgba(255, 255, 255, 0.12);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+
+    border-radius: 20px;
+    padding: 15px;
+    width: 100%;
+    max-width: 400px;
+
+    /* Soft shadow */
+    box-shadow: 0 8px 25px rgba(0,0,0,0.25);
+
+    /* Spacing */
+    margin: 20px auto;
+
+    
+}
+
+
+form {
+    width: 100%;
+    max-width: 350px;
+    flex-direction: column;
+    gap: 10px;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+
+
+label {
+    visibility: hidden;
+}
+
+select {
+    display: flex;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 8px 12px;
+font: 1em sans-serif;
+cursor: pointer;
+
+}
+
+.search_btn_container {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    
+}
+
+
+
+#search_btn {
+    background-color: rgb(38, 70, 175);
+    color: white;
+    font: 1em sans-serif;
+    border-radius: 10px;
+    padding:  12px;
+    width: 100%;
+    border: 2px solid transparent;
+    cursor: pointer;
+    transition: border 0.2s ease;
+}
+
+#search_btn:hover {
+    border: 2px solid rgb(80, 169, 241);
+    
+
+}
+
+#icon_logo {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
