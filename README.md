@@ -30,16 +30,8 @@ This project was developed as a technical coding assessment for Partify. The goa
 
 ---
 
-## 📸 Preview
+## 📸 Screenshots
 
-<p align="center">
-  <img width="574" height="610" alt="Partify Vehicle Selector Form" src="https://github.com/user-attachments/assets/78940954-ecbb-4b4e-b264-4276c07326e7" />
-</p>
-
-<p align="center">
-  <img width="777" height="631" alt="Partify Dropdown Selection Flow" src="https://github.com/user-attachments/assets/0f3a814d-e597-44f6-a57b-677f2faac774" />
-</p>
-
-<p align="center">
-  <img width="1909" height="811" alt="Partify Target Shopify Collection Redirect" src="https://github.com/user-attachments/assets/6381ec58-6e57-4037-8051-d11c8910409d" />
-</p>
+| Vehicle Form | Dropdown Selection | Collection Redirect |
+| :---: | :---: | :---: |
+| <img width="574" height="610" alt="Partify Vehicle Selector Form" src="https://github.com/user-attachments/assets/78940954-ecbb-4b4e-b264-4276c07326e7" /> | <img width="479" height="562" alt="Partify Dropdown State" src="https://github.com/user-attachments/assets/8bdcc1e2-b43f-44c0-85e9-7edcaf42cdb4" /> | <img width="1909" height="811" alt="Partify Target Shopify Collection Redirect" src="https://github.com/user-attachments/assets/6381ec58-6e57-4037-8051-d11c8910409d" /> |
